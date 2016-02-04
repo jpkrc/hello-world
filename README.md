@@ -1,4 +1,3 @@
 # hello-world
 initial tutorial
-I am thinking about adding some content.
-How about somethign which prints "Hello World!" to the screen?
+show the file index.html in a browser to see the printout.
